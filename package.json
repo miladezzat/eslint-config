@@ -1,5 +1,5 @@
 {
-  "name": "@milad/eslint-config",
+  "name": "@colon/eslint-config",
   "version": "1.0.0",
   "description": "JS code style guidelines backed in eslint rules.",
   "main": "index.js",
