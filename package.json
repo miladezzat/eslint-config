@@ -1,6 +1,6 @@
 {
   "name": "@colon/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS code style guidelines backed in eslint rules.",
   "main": "index.js",
   "author": "Milad E. Fahmy<miladezzat.f@gmail.com>",  
