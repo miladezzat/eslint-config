@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "JS code style guidelines backed in eslint rules.",
+  "main": "index.js",
+  "author": "Milad E. Fahmy<miladezzat.f@gmail.com>",  
+  "contributors": [
+    "Milad E. Fahmy <miladezzat>"
+  ],
+  "scripts": {
+    "docker": "docker-compose build --no-cache && docker-compose run node",
+    "lint": "eslint ."
+  },
+  "license": "ISC"
+}
